@@ -1,0 +1,44 @@
+===== ENTRA ID =====
+
+Curso ENTRA ID - Oficial
+https://learn.microsoft.com/pt-br/training/entra/
+
+Documentação Entra ID
+https://learn.microsoft.com/pt-br/entra/identity/
+
+Funções com menos privilégios por tarefa
+https://learn.microsoft.com/pt-br/entra/identity/role-based-access-control/delegate-by-task
+
+Regras para criação de grupos dinâmicos
+https://learn.microsoft.com/pt-br/entra/identity/users/groups-dynamic-membership
+
+Nomes de produtos e identificadores de plano de serviço para licenciamento
+https://learn.microsoft.com/pt-br/entra/identity/users/licensing-service-plan-reference
+
+Identidade do dispositivo
+https://learn.microsoft.com/pt-br/entra/identity/devices/overview
+
+Identidade híbrida
+https://learn.microsoft.com/pt-br/entra/identity/hybrid/whatis-hybrid-identity
+
+Documentação o Entra Connect
+https://learn.microsoft.com/pt-br/entra/identity/hybrid/connect/whatis-azure-ad-connect-v2
+https://learn.microsoft.com/pt-br/entra/identity/hybrid/connect/whatis-azure-ad-connect
+
+Planejamento da instalação do Entra Connect
+https://learn.microsoft.com/pt-br/entra/identity/hybrid/connect/plan-connect-design-concepts
+
+Instalação o Entra Connect
+https://learn.microsoft.com/pt-br/entra/identity/hybrid/connect/how-to-connect-install-roadmap
+
+
+===== LICENCIAMENTO =====
+
+Site com licenciamento de forma visual
+https://m365maps.com
+
+Documentação de orientação do Microsoft 365 para conformidade de & de segurança
+https://learn.microsoft.com/pt-br/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance
+
+
+
