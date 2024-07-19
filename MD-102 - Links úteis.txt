@@ -31,6 +31,10 @@ https://learn.microsoft.com/pt-br/entra/identity/hybrid/connect/plan-connect-des
 Instalação o Entra Connect
 https://learn.microsoft.com/pt-br/entra/identity/hybrid/connect/how-to-connect-install-roadmap
 
+Grupos dinâmicos
+https://learn.microsoft.com/en-us/entra/identity/users/groups-dynamic-membership
+
+
 
 ===== LICENCIAMENTO =====
 
@@ -39,6 +43,31 @@ https://m365maps.com
 
 Documentação de orientação do Microsoft 365 para conformidade de & de segurança
 https://learn.microsoft.com/pt-br/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance
+
+==== INTUNE ====
+
+Documentação do Intune
+https://learn.microsoft.com/pt-br/mem/intune/
+
+Requisitos de rede
+https://learn.microsoft.com/pt/mem/intune/fundamentals/intune-endpoints?tabs=north-america
+
+GPO para registro no Intune para ambiente híbridos
+https://learn.microsoft.com/en-us/windows/client-management/enroll-a-windows-10-device-automatically-using-group-policy
+
+Tempo de sincronização das políticas
+https://learn.microsoft.com/en-us/mem/intune/configuration/device-profile-troubleshoot#policy-refresh-intervals
+
+Filtros
+https://learn.microsoft.com/pt-br/mem/intune/fundamentals/filters
+
+===== TROUBLESHOOTING ======
+
+Problema com o registro híbrido
+https://learn.microsoft.com/pt-br/troubleshoot/azure/entra/entra-id/dir-dmns-obj/pending-devices#get-a-list-of-pending-devices
+
+
+
 
 
 
