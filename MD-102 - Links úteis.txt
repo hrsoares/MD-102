@@ -66,6 +66,11 @@ https://learn.microsoft.com/pt-br/mem/intune/fundamentals/filters
 Problema com o registro híbrido
 https://learn.microsoft.com/pt-br/troubleshoot/azure/entra/entra-id/dir-dmns-obj/pending-devices#get-a-list-of-pending-devices
 
+===== WINDOWS AS SERVICES =====
+
+
+===== WINDOWS UPDATE FOR BUSINESS =====
+
 
 
 
